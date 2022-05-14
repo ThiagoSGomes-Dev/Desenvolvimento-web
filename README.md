@@ -7,7 +7,7 @@
 
   <!--ls-->
   
-  * [INTERNET](##🌍IntoduçãoaProtocoloHTTPeHTTPS)
+  * [INTERNET](##HTTPS)
   
   <!--ls-->
 <hr>
@@ -36,7 +36,7 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
 
 The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>
 
-## 🌍 Intodução a Protocolo HTTP e HTTPS
+## HTTPS
 
   <li><a href="https://hstspreload.org/">Verifique o status e a elegibilidade do pré-carregamento</a></li>
   <li><a href="https://datatracker.ietf.org/doc/html/rfc2616">Consultar a especificação do HTTP</a></li>
