@@ -5,7 +5,7 @@
 <h2>Índice</h2>
 <hr>
  <li><a href="#">INTERNET</a></li>
- <li><a href="#">Protocolo HTTP</a></li>
+ <li><a href="<ul>🌍 Intodução a Protocolo HTTP e HTTPS</ul>">Protocolo HTTP</a></li>
  <li><a href="#">HTML</a></li>
  <li><a href="#">CSS</a></li>
  <li><a href="#">JavaScript</a></li>
@@ -27,6 +27,6 @@
  <li><a href="#">Scrum</a></li>
  <li><a href="#">Kanban</a></li>
 <hr>
-    <ul>🌍 Intodução a Protocolo <a href="<li><a href="#">Protocolo HTTP</a></li>">HTTP</a> e HTTPS</ul>
+    <ul>🌍 Intodução a Protocolo HTTP e HTTPS</ul>
   <li><a href="https://hstspreload.org/">Verifique o status e a elegibilidade do pré-carregamento</a></li>
   <li><a href="https://datatracker.ietf.org/doc/html/rfc2616">Consultar a especificação do HTTP</a></li>
