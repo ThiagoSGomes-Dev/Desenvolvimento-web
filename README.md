@@ -5,7 +5,7 @@
 <h2>Índice</h2>
 <hr>
  <li><a href="#">INTERNET</a></li>
- <li><a href="https://github.com/ThiagoSGomes-Dev/Desenvolvimento-web/edit/main/README.md#-intodu%C3%A7%C3%A3o-a-protocolo-http-e-https">Protocolo HTTP</a></li>
+ <li><a href="https://github.com/ThiagoSGomes-Dev/Desenvolvimento-web/blob/main/README.md#-intodu%C3%A7%C3%A3o-a-protocolo-http-e-https">Protocolo HTTP</a></li>
  <li><a href="#">HTML</a></li>
  <li><a href="#">CSS</a></li>
  <li><a href="#">JavaScript</a></li>
