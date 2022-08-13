@@ -1,4 +1,4 @@
-<h1 align="center">My front end performance</h1>
+<h1 align="center">My Front end performance</h1>
 <h2 align="center">Boas praticas com desenvolvimento de websites.</h2>
 <br>
 <br>
@@ -10,7 +10,7 @@
      <li><a href="https://github.com/ThiagoSGomes-Dev/Desenvolvimento-web/edit/main/README.md#%EF%B8%8F-html">HTML</a></li>
      <li><a href="#">CSS</a></li>
      <li><a href="#">JavaScript</a></li>
-     <li><a href="#">Vue.js</a></li>
+     <li><a href="#">React js</a></li>
      <li><a href="#">SASS</a></li>
      <li><a href="#">PostCSS</a></li>
      <li><a href="#">Webpack</a></li>
