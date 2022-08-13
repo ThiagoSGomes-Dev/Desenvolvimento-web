@@ -1,4 +1,4 @@
-<h1 align="center">Font-End my Performance</h1>
+<h1 align="center">My front end performance</h1>
 <h2 align="center">Boas praticas com desenvolvimento de websites.</h2>
 <br>
 <br>
